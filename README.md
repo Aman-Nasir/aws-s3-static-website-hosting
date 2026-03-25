@@ -24,13 +24,14 @@ The website is hosted using AWS S3 static hosting.
 ![Website](screenshots/website.png)
 
 ### S3 Bucket
-![S3](screenshots/s3.png)
+![S3](screenshots/S3.png)
+
+### File Upload
+![Upload](screenshots/upload.png)
 
 ### Static Hosting Enabled
 ![Hosting](screenshots/hosting.png)
 
-### File Upload
-![Upload](screenshots/upload.png)
 
 ## Author
 Aman Nasir
